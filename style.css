@@ -1,0 +1,12 @@
+ h1{
+        color:gray;
+        font-size: 80px;
+        background-color:rgb(34, 0, 128);
+        background-image:linear-gradient(red,yellow,green) ;
+        padding: 50px;
+        padding-left: 30%;
+        border-width:10px;
+        border-color:rgb(234, 130, 238);
+        border-style:solid;
+        margin-top:20%;
+ }
